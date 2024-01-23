@@ -30,11 +30,5 @@
 
 ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaoliv&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaoliv&langs_count=8)
-
-
-<br>
-
-#
 
 
